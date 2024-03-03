@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
 
     private String[] items = {"Acnes", "Skintific", "Azarine", "You"};
     private int[] itemPrices = {35000, 98000, 46000, 25000};
+
     private int[] adminFees = {2000, 2500, 3000, 3500}; // Biaya admin berbeda untuk setiap item
 
     @Override
